@@ -1,5 +1,5 @@
 # react-boilerplate
-Um boilerplate para projetos web com React, redux e Redux Saga
+Um boilerplate para projetos web com React, Redux e Redux Saga
 
 ### Instalação
 ```
