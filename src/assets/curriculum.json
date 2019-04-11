@@ -1,0 +1,334 @@
+{
+  "firstname": "Raphael",
+  "lastname": "de Mello Barros",
+  "birthday": "05/03/1986",
+  "photo": "base64",
+  "resume": "Resumo do currículo",
+  "isMarried": true,
+  "hasChildrens": true,
+  "numberChildrens": 1,
+  "address": {
+    "street": "Avenida Vicente de Carvalho",
+    "number": 1086,
+    "complement": "Rua 6 bloco B, apto 302",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "country": "Brasil",
+    "postalCep": "21210000"
+  },
+  "contacts": [
+    {
+      "label": "Celular",
+      "value": "+55 21 98030-5719"
+    },
+    {
+      "label": "Email",
+      "value": "barros.raphael@yahoo.com.br"
+    },
+    {
+      "label": "Skype",
+      "value": "alguma informação"
+    }
+  ],
+  "formations": [
+    {
+      "title": "Tecnologia da Informação",
+      "type": "Superior",
+      "photo": "",
+      "institution": "UNISUAM - Centro Universitário Augusto Motta",
+      "initial": "Jan/2002",
+      "final": "Dez/2006"
+    },
+    {
+      "title": "Edificações",
+      "type": "Técnico",
+      "photo": "",
+      "institution": "FAETEC - Fundação de Apoio à Escola Técnica",
+      "initial": "Jan/2007",
+      "final": "Nov/2010"
+    }
+  ],
+  "courses": [
+    {
+      "title": "Criação de apps Android e iOS com Flutter",
+      "types": [
+        "Mobile"
+      ],
+      "institution": "Udemy",
+      "photo": "",
+      "keywords": "flutter, android, iOs, mobile, dart, app",
+      "initial": "Fev/2019",
+      "expiration": ""
+    },
+    {
+      "title": "CSS - Um passo adiante",
+      "type": [
+        "Web"
+      ],
+      "institution": "Udemy",
+      "photo": "",
+      "keywords": [
+        "web",
+        "stylesheet",
+        "css",
+        "sass",
+        "BEM",
+        "scss",
+        "task runners",
+        "pre-processadores",
+        "responsividade"
+      ],
+      "initial": "Jan/2019",
+      "expiration": ""
+    },
+    {
+      "title": "Do zero ao Redux - Projetos práticos e diversificados",
+      "type": [
+        "Web"
+      ],
+      "institution": "Udemy",
+      "photo": "",
+      "keywords": [
+        "web",
+        "javascript",
+        "react",
+        "redux",
+        "saga",
+        "thunk",
+        "prop-types",
+        "axios",
+        "jest",
+        "moxios",
+        "material-ui"
+      ],
+      "initial": "Jan/2019",
+      "expiration": ""
+    },
+    {
+      "title": "Formação Java",
+      "type": [
+        "Desktop",
+        "Web"
+      ],
+      "institution": "Caelum",
+      "photo": "",
+      "keywords": [
+        "java",
+        "jsf",
+        "jsp",
+        "oo",
+        "hibernate",
+        "orientação à objetos",
+        "patterns",
+        "interfaces",
+        "classes",
+        "testes",
+        "frameworks",
+        "tomcat"
+      ],
+      "initial": "2016",
+      "expiration": ""
+    },
+    {
+      "title": "Laboratório Java com testes JSF e Design Patterns",
+      "type": [
+        "Desktop",
+        "Web"
+      ],
+      "institution": "Caelum",
+      "photo": "",
+      "keywords": [
+        "java",
+        "patterns",
+        "interfaces",
+        "classes",
+        "testes"
+      ],
+      "initial": "Set/2016",
+      "expiration": ""
+    },
+    {
+      "title": "Spring MVC",
+      "type": [
+        "Web"
+      ],
+      "institution": "Algaworks",
+      "photo": "",
+      "keywords": [
+        "java",
+        "spring",
+        "mvc",
+        "spring boot",
+        "thymeleaf"
+      ],
+      "initial": "Set/2016",
+      "expiration": ""
+    },
+    {
+      "title": "Java para desenvolvimento web",
+      "type": [
+        "Web"
+      ],
+      "institution": "Caelum",
+      "photo": "",
+      "keywords": [
+        "java",
+        "jsf",
+        "jsp",
+        "hibernate",
+        "patterns",
+        "interfaces",
+        "classes",
+        "frameworks",
+        "tomcat"
+      ],
+      "initial": "Ago/2016",
+      "expiration": ""
+    },
+    {
+      "title": "Java e orientação à objetos",
+      "type": [
+        "Web"
+      ],
+      "institution": "Caelum",
+      "photo": "",
+      "keywords": [
+        "java",
+        "oo",
+        "interfaces",
+        "classes",
+        "herança",
+        "objetos",
+        "eclipse"
+      ],
+      "initial": "Ago/2016",
+      "expiration": ""
+    },
+    {
+      "title": "Java Enterprise Edition",
+      "type": [
+        "Web"
+      ],
+      "institution": "Digidata Informática",
+      "photo": "",
+      "keywords": [
+        "java",
+        "jdbc",
+        "jsp",
+        "eclipse",
+        "oo",
+        "frameworks",
+        "tomcat"
+      ],
+      "initial": "Abr/2011",
+      "expiration": ""
+    },
+    {
+      "title": "Oracle",
+      "type": [
+        "Desktop",
+        "Web"
+      ],
+      "institution": "Digidata Informática",
+      "photo": "",
+      "keywords": [
+        "oracle",
+        "database",
+        "sql",
+        "query"
+      ],
+      "initial": "Ago/2010",
+      "expiration": ""
+    },
+    {
+      "title": "Desenvolvimento web com HTML, Javascript e Actionscript 2.0",
+      "type": [
+        "Web"
+      ],
+      "institution": "UNISUAM - Centro Universitário Augusto Motta",
+      "photo": "",
+      "keywords": [
+        "html",
+        "javascript",
+        "css",
+        "actionscript",
+        "flash"
+      ],
+      "initial": "Jun/2009",
+      "expiration": ""
+    },
+    {
+      "title": "Adobe para web - Photoshop, Dreamweaver e Flash",
+      "type": [
+        "Web"
+      ],
+      "institution": "UNISUAM - Centro Universitário Augusto Motta",
+      "photo": "",
+      "keywords": [
+        "adobe",
+        "html",
+        "dreamweaver",
+        "css",
+        "actionscript",
+        "flash"
+      ],
+      "initial": "Jun/2008",
+      "expiration": ""
+    },
+    {
+      "title": "Java 2 Standard Edition",
+      "type": [
+        "Desktop"
+      ],
+      "institution": "Digidata Informática",
+      "photo": "",
+      "keywords": [
+        "java",
+        "jdbc",
+        "oo",
+        "orientação à objetos",
+        "dao"
+      ],
+      "initial": "Abr/2008",
+      "expiration": ""
+    },
+    {
+      "title": "Desenvolvendo aplicações para internet com PHP e MYSQL",
+      "type": [
+        "Web"
+      ],
+      "institution": "UNISUAM - Centro Universitário Augusto Motta",
+      "photo": "",
+      "keywords": [
+        "php",
+        "mysql",
+        "script",
+        "apache",
+        "html",
+        "css",
+        "http"
+      ],
+      "initial": "Jan/2008",
+      "expiration": ""
+    }
+  ],
+  "experiences": [
+    {
+      "company": "",
+      "photo": "",
+      "activity": "",
+      "office": "",
+      "keywords": [],
+      "descriptionTasks": "",
+      "initial": "",
+      "final": "",
+      "hasCurrent": true
+    }
+  ],
+  "acquirements": [
+    {
+      "label": "",
+      "value": "1-5"
+    }
+  ]
+}
