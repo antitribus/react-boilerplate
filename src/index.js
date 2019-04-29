@@ -5,6 +5,7 @@ import {Provider} from 'react-redux';
 import './core/MainStyle.scss';
 
 import Store from './core/Store';
-import Application from './modules/Application/Application';
+import Routes from "./core/Routes";
 
-ReactDOM.render(<Provider store={Store}><Application/></Provider>, document.getElementById('root'));
+ReactDOM.render(<Provider store={Store}>
+    <Routes /></Provider>, document.getElementById('root'));

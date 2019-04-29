@@ -10,7 +10,7 @@ class Application extends Component {
         const {classes} = props;
 
         return (
-            <div className={'application ' + classes.root}>
+            <div className='application'>
                 {this.props.name}
             </div>
         );
@@ -25,8 +25,6 @@ const mapStateToProps = (state) => ({
     name: state.application.name
 });
 
-const mapDispatchToProps = (dispatch) => ({
-    setForm: (payload) => dispatch(Action.setForm(payload))
-});
+const mapDispatchToProps = (dispatch) => ({});
 
 export default connect(mapStateToProps, mapDispatchToProps)(Application);
