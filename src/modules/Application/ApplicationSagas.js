@@ -1,5 +1,5 @@
 import * as Saga from 'redux-saga/effects';
-import * as Action from './ApplicationAction';
+import * as Action from './ApplicationActions';
 
 export function* setName(action) {
     try {
@@ -16,10 +16,10 @@ export function* setName(action) {
     yield Saga.takeLatest(Typ)
 }*/
 
-function* ApplicationSaga() {
+function* ApplicationSagas() {
     yield Saga.all([
         //watchSetName()
     ])
 }
 
-export default ApplicationSaga;
+export default ApplicationSagas;

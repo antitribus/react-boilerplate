@@ -5,7 +5,7 @@ export const INITIAL_STATE = {
     errors: {}
 };
 
-const ApplicationReducer = (state = INITIAL_STATE, action) => {
+const ApplicationReducers = (state = INITIAL_STATE, action) => {
     switch (action.type) {
         case Types.SET_APPLICATION_NAME: {
             return {
@@ -24,4 +24,4 @@ const ApplicationReducer = (state = INITIAL_STATE, action) => {
     }
 };
 
-export default ApplicationReducer;
+export default ApplicationReducers;

@@ -1,7 +1,7 @@
 import {combineReducers} from 'redux';
 
 /* Import dos reducers */
-import application from '../modules/Application/ApplicationReducer';
+import application from '../modules/Application/ApplicationReducers';
 
 const MainReducer = combineReducers({
     application

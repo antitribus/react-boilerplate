@@ -1,10 +1,10 @@
 import {all} from 'redux-saga/effects';
 
-import ApplicationSaga from '../modules/Application/ApplicationSaga';
+import ApplicationSagas from '../modules/Application/ApplicationSagas';
 
 function* MainSaga() {
     yield all([
-        ApplicationSaga()
+        ApplicationSagas()
     ]);
 }
 
